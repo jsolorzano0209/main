@@ -32,31 +32,31 @@ You can modify all or portions of these CSS rules.
 body /* wallpaper */
 {
   background-image: none; 
-  background-color: #BDED7E;
-  color:blue;
+  background-color: #FFFFFF;
+  
 }
 
 #emf-container #emf-logo /* header */
 {
   background-image: none;
-  background-color: #FE495F;
+  background-color: #FFFFFF;
 }
 
 #emf-container /* form */
 {
-  background-color: #FFFEC8;
+  background-color: #FFFFFF;
 }
 
 #emf-container div.emf-div-field input, /* field */
 #emf-container div.emf-div-field textarea,
 #emf-container div.emf-div-field select
 {
-  background-color: #D8FD94;
+  background-color: #FFFFFF;
 }
 
 #emf-container #emf-form ul li.highlight-field /* highlight */
 {
-  background-color: #FE9D97;
+  background-color: #FFFFFF;
 }
 
 #emf-container li .emf-div-instruction, #emf-container li .emf-div-field label /* instructions */
@@ -71,9 +71,9 @@ body /* wallpaper */
 {
   font-family: Trebuchet MS;
   font-style: normal;
-  font-weight:bold;
+  
   font-size: 23px;
-  color: #FE495F;
+  color: blue;
 }
 
 #emf-container #emf-form-description /* description */
@@ -81,7 +81,7 @@ body /* wallpaper */
   font-family: Arial;
   font-style: normal;
   font-size: 15px;
-  color: #000000;
+  color: blue;
 }
 
 #emf-container label.emf-label-desc /* field title */
@@ -89,7 +89,7 @@ body /* wallpaper */
   font-family: Trebuchet MS;
   font-style: normal;
   font-size: 15px;
-  color: #000000;
+  color: blue;
 }
 
 #emf-container div.emf-div-field input, /* field text */
@@ -99,7 +99,7 @@ body /* wallpaper */
   font-family: Arial;
   font-style: normal;
   font-size: 12px;
-  color: #666666;
+  color: blue;
 }
 
 #emf-container li .emf-div-instruction, #emf-container li .emf-div-field label /* instructions */
@@ -107,7 +107,7 @@ body /* wallpaper */
   font-family: Arial;
   font-style: italic;
   font-size: 10px;
-  color: #333333;
+  color:blue;
 }
 
 
