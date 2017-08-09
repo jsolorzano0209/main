@@ -102,6 +102,14 @@ body /* wallpaper */
   color: blue;
 }
 
+.emf-li-field.emf-field-email dat._container{
+  width:200px!important;
+  position:absolute!important;
+}
+.emf-li-field.emf-field-phone data_container.emf-li-half-width.cell_align_left{
+  margin-left:300px!important;	
+}	
+	
 #emf-container li .emf-div-instruction, #emf-container li .emf-div-field label /* instructions */
 {
   font-family: Arial;
@@ -115,10 +123,10 @@ body /* wallpaper */
 
 #emf-container /* form */
 { 
-  border-top: #A3D068 2px solid; 
-  border-right: #7AA245 2px solid;
-  border-bottom: #7AA245 2px solid;
-  border-left: #A3D068 2px solid; 
+  border-top: gray 2px solid; 
+  border-right: gray 2px solid;
+  border-bottom: ligh-gray 2px solid;
+  border-left: light-gray 2px solid; 
 }
 
 #emf-container #emf-logo /* header */
