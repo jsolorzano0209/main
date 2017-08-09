@@ -21,9 +21,10 @@ You can modify all or portions of these CSS rules.
 {
   background-repeat:no-repeat;
   text-indent:-99999px;
-  background-image: url("http://emf2/builder/images/themes/logos/airplane.png");
+  background-color:blue;
+  padding-bottom:5px;
   background-repeat: no-repeat;
-  height: 40px;
+  height: 60px;
 }
 
 
@@ -72,7 +73,7 @@ body /* wallpaper */
   font-family: Trebuchet MS;
   font-style: normal;
   
-  font-size: 23px;
+  font-size: 20px;
   color: blue;
 }
 
@@ -102,11 +103,11 @@ body /* wallpaper */
   color: blue;
 }
 
-.emf-li-field.emf-field-email dat._container{
+.emf-li-field.emf-field-email.data_container{
   width:200px!important;
   position:absolute!important;
 }
-.emf-li-field.emf-field-phone data_container.emf-li-half-width.cell_align_left{
+.emf-li-field.emf-field-phone.data_container.emf-li-half-width.cell_align_left{
   margin-left:300px!important;	
 }	
 	
@@ -167,7 +168,7 @@ body /* wallpaper */
   font-family: Arial;
   font-style: normal;
   font-size: 13px;
-  color: #3D484B;
+  color: blue;
 }
 
 /* -- Buttons -- */
@@ -201,7 +202,7 @@ body /* wallpaper */
 #emf-container li#emf-li-captcha #emf-captcha-input-settings,
 #emf-container li#emf-li-captcha #emf-captcha-input-settings a
 {
-  color:#000000;
+  color:blue;
 }
 
 
