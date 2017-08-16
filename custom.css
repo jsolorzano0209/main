@@ -21,7 +21,8 @@ You can modify all or portions of these CSS rules.
 {
   background-repeat:no-repeat;
   text-indent:-99999px;
-  background-color:blue;
+  background-color:#228B22;
+  opacity:20%;
   padding-bottom:5px;
   background-repeat: no-repeat;
   height: 60px;
