@@ -48,7 +48,7 @@ body /* wallpaper */
 
 #emf-container /* form */
 {
-  background-color: #FFFFFF; 
+   background-color:rgb(34,139,34,0.3);
 }
 
 #emf-container div.emf-div-field input, /* field */
