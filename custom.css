@@ -42,8 +42,13 @@ body /* wallpaper */
 #emf-container #emf-logo /* header */
 {
   background-image: none;
+  background-color:none!important;
   
 }
+
+label.emf-label-desc, div.emf-div-field label{
+color:white!important;	
+}	
 
 #emf-container /* form */
 {
@@ -215,4 +220,8 @@ body /* wallpaper */
   margin: 10px;
   padding: 10px;
   border: 2px dashed #FF0000;
+}
+
+#emf-form-title {
+	color:white!important;
 }
