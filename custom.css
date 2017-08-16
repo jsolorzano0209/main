@@ -42,7 +42,7 @@ body /* wallpaper */
 #emf-container #emf-logo /* header */
 {
   background-image: none;
-  background-color:none!important;
+  background-color:transparent!important;
   
 }
 
@@ -77,7 +77,7 @@ color:white!important;
 
 #emf-container #emf-form-title /* title */
 {
-  font-family: Trebuchet MS;
+  font-family: Tahoma;
   font-style: normal;
   
   font-size: 20px;
@@ -86,7 +86,7 @@ color:white!important;
 
 #emf-container #emf-form-description /* description */
 {
-  font-family: Arial;
+  font-family: Tahoma;
   font-style: normal;
   font-size: 15px;
   color: rgba(34,139,34);
@@ -94,7 +94,7 @@ color:white!important;
 
 #emf-container label.emf-label-desc /* field title */
 {
-  font-family: Trebuchet MS;
+  font-family: Tahoma;
   font-style: normal;
   font-size: 15px;
   color: rgba(34,139,34);
@@ -224,4 +224,13 @@ color:white!important;
 
 #emf-form-title {
 	color:white!important;
+}
+
+#emf-container .emf-field-grid th, #emf-container .emf-field-list th{
+	color:green!important;
+}
+
+#emf-form input, #emf-form select, #emf-form
+textarea{
+	color:green!important;
 }
