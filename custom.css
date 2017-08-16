@@ -21,7 +21,7 @@ You can modify all or portions of these CSS rules.
 {
   background-repeat:no-repeat;
   text-indent:-99999px;
-  background-color:rgb(34,139,34,0.3);
+  background-color:rgb(34,139,34);
   padding-bottom:5px;
   background-repeat: no-repeat;
   height: 60px;
@@ -48,7 +48,7 @@ body /* wallpaper */
 
 #emf-container /* form */
 {
-   background-color:rgb(34,139,34,0.3);
+   background-color:rgb(34,139,34);
 }
 
 #emf-container div.emf-div-field input, /* field */
