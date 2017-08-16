@@ -33,6 +33,7 @@ You can modify all or portions of these CSS rules.
 body /* wallpaper */
 {
   background-image: url(http://i.imgur.com/Vx2C4LM.jpg);
+  background-repeat: no-repeat;
   
 }
 
