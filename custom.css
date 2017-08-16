@@ -21,7 +21,6 @@ You can modify all or portions of these CSS rules.
 {
   background-repeat:no-repeat;
   text-indent:-99999px;
-  background-color:rgba(34,139,34,0.5)!important;
   padding-bottom:5px;
   background-repeat: no-repeat;
   height: 60px;
@@ -43,7 +42,7 @@ body /* wallpaper */
 #emf-container #emf-logo /* header */
 {
   background-image: none;
-  background-color: #FFFFFF;
+  
 }
 
 #emf-container /* form */
@@ -77,7 +76,7 @@ body /* wallpaper */
   font-style: normal;
   
   font-size: 20px;
-  color: blue;
+  color: rgba(34,139,34);
 }
 
 #emf-container #emf-form-description /* description */
@@ -85,7 +84,7 @@ body /* wallpaper */
   font-family: Arial;
   font-style: normal;
   font-size: 15px;
-  color: blue;
+  color: rgba(34,139,34);
 }
 
 #emf-container label.emf-label-desc /* field title */
@@ -93,7 +92,7 @@ body /* wallpaper */
   font-family: Trebuchet MS;
   font-style: normal;
   font-size: 15px;
-  color: blue;
+  color: rgba(34,139,34);
 }
 
 #emf-container div.emf-div-field input, /* field text */
@@ -103,7 +102,7 @@ body /* wallpaper */
   font-family: Arial;
   font-style: normal;
   font-size: 12px;
-  color: blue;
+  color: rgba(34,139,34);
 }
 
 .emf-li-field.emf-field-email.data_container{
@@ -119,7 +118,7 @@ body /* wallpaper */
   font-family: Arial;
   font-style: italic;
   font-size: 10px;
-  color:blue;
+  color:rgba(34,139,34);
 }
 
 
@@ -127,8 +126,8 @@ body /* wallpaper */
 
 #emf-container /* form */
 { 
-  border-top: gray 2px solid; 
-  border-right: gray 2px solid;
+  border-top: light-gray 2px solid; 
+  border-right: light-gray 2px solid;
   border-bottom: ligh-gray 2px solid;
   border-left: light-gray 2px solid; 
 }
@@ -161,7 +160,7 @@ body /* wallpaper */
 /* -- Section Title -- */
 
 #emf-container li.emf-field-section_break div.emf-div-field-section h3{
-	font-family: Trebuchet MS;
+	font-family: Tahoma;
 	font-size:19px;
 }
 
@@ -171,7 +170,7 @@ body /* wallpaper */
   font-family: Arial;
   font-style: normal;
   font-size: 13px;
-  color: blue;
+  color: rgba(34,139,34);
 }
 
 /* -- Buttons -- */
@@ -205,7 +204,7 @@ body /* wallpaper */
 #emf-container li#emf-li-captcha #emf-captcha-input-settings,
 #emf-container li#emf-li-captcha #emf-captcha-input-settings a
 {
-  color:blue;
+  color:rgba(34,139,34);
 }
 
 
