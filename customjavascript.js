@@ -1,6 +1,6 @@
 var radios = document.getElementsByName('element_0');
 
-for (var i = 0, length = radios.length; i < length; i++)
+for (var i = 0, length = radios.length; i < length; i++) 
 { 
  if (radios[i].checked && radios[i].value==='$50')
  {
