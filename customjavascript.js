@@ -1,3 +1,4 @@
+window.onload=function() {
 var radios = document.getElementsByTagName('input');
 var value; 
 for (var i = 0; i < radios.length; i++) {
@@ -10,5 +11,7 @@ for (var i = 0; i < radios.length; i++) {
                document.getElementById("f4276037_total_items tr td").innerHTML(function(){var result= "$" +(0.25 *50)+50; return result;});
 
             }          
+       }
     }
 }
+    
