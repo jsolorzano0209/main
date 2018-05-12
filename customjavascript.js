@@ -1,8 +1,3 @@
-var rates = document.getElementById('element_0_0').value;
-var rates2 = document.getElementById('element_0_1').value;
-var rates3 = document.getElementById('element_0_2').value;
-var totalvalue;
-
 if(document.getElementById('element_0_0').checked) {
         document.getElementById('f4276037_total_price').innerHTML(function(){var result= "$" +(0.25 * 50)+50; return result;});
         document.getElementById('f4276037_total_items tr th').innerHTML(function(){var result= "$" +(0.25 * 50)+50; return result;});
