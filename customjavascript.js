@@ -1,7 +1,7 @@
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
 <script type="text/javascript">
 jQuery('input:radio[name="element_0"]').change(function() {
-     if (jQuery(this).is(':checked') && jQuery(this).val() == '$50') {
+     if (jQuery(this).is(':checked') && jQuery(this).val() == '$50') { 
            
    
        
